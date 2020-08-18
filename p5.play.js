@@ -4176,6 +4176,7 @@ function Animation(pInst) {
   * If set to 4 the framerate of the anymation would be the
   * sketch framerate divided by 4 (60fps = 15fps)
   *
+  *
   * @property frameDelay
   * @type {Number}
   * @default 2
